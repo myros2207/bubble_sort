@@ -1,0 +1,17 @@
+
+body{
+    background: #849db7;
+}
+.container{
+    margin-top:100px;
+    text-align: center;
+font-size: 2vw;
+}
+
+button{
+    background:none;
+    font-size:1vw;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+}

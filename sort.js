@@ -1,7 +1,7 @@
 let tablica;
 
 function randomNumber() {
-
+let fake
 
 
 let randomNumber1 = Math.floor((Math.random()*20) +1);
